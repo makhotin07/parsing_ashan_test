@@ -1,4 +1,4 @@
-# Auchan Parser README.md
+# Auchan Parser
 
 ## 🌟 Описание
 
